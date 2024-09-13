@@ -22,3 +22,15 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+BSD 2-Clause 许可证
+
+版权所有 (c) 2024, Draveyar
+
+在遵守以下条件的前提下，允许以源代码和二进制形式进行再分发和使用，无论是否经过修改：
+
+1. 源代码的再分发必须保留上述版权声明、此清单以及以下免责声明。
+
+2. 二进制形式的再分发必须在随分发附带的文档和/或其他材料中重现上述版权声明、此清单以及以下免责声明。
+
+本软件由版权持有者和贡献者按“现状”提供，不作任何明示或暗示的保证，包括但不限于对适销性和特定用途适用性的隐含保证。在任何情况下，无论是合同、严格责任还是侵权（包括过失或其他方式）导致的因使用本软件而引发的任何直接、间接、偶然、特殊、示范性或衍生性损害（包括但不限于采购替代商品或服务；使用、数据或利润的丧失；或业务中断），即使已被告知可能发生此类损害，版权持有者或贡献者也不承担任何责任。
